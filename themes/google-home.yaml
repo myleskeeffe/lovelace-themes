@@ -1,4 +1,4 @@
-Google - Light:
+GoogleLight:
   ### Fonts ###
   primary-font-family: "'Open Sans','Rubik',Roboto,sans-serif"
   paper-font-common-base_-_font-family: "var(--primary-font-family)"
@@ -70,7 +70,7 @@ Google - Light:
   switch-unchecked-button-color: "var(--paper-toggle-button-unchecked-button-color)"
   switch-unchecked-color: "var(--paper-toggle-button-unchecked-bar-color)"
   switch-unchecked-track-color: "var(--paper-toggle-button-unchecked-bar-color)"
-Google - Dark:
+GoogleDark:
   ### Fonts ###
   primary-font-family: "'Open Sans','Rubik',Roboto,sans-serif"
   paper-font-common-base_-_font-family: "var(--primary-font-family)"
